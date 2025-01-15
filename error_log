@@ -1,0 +1,79 @@
+[14-Jan-2025 19:20:38 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:20:56 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:20:57 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:20:58 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:23:08 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:23:09 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:23:10 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:23:12 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:24:43 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:25:08 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:25:19 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 163
+[14-Jan-2025 19:26:38 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 164
+[14-Jan-2025 20:23:01 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[14-Jan-2025 21:10:00 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[14-Jan-2025 21:15:36 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[14-Jan-2025 21:15:58 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[14-Jan-2025 23:24:36 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[15-Jan-2025 11:35:23 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 15
+[15-Jan-2025 11:35:23 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 164
+[15-Jan-2025 11:35:23 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 208
+[15-Jan-2025 11:35:23 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 222
+[15-Jan-2025 11:35:23 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 244
+[15-Jan-2025 11:35:23 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 258
+[15-Jan-2025 11:35:27 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 15
+[15-Jan-2025 11:35:27 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 53
+[15-Jan-2025 11:35:27 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 67
+[15-Jan-2025 11:35:27 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 89
+[15-Jan-2025 11:35:27 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 103
+[15-Jan-2025 11:35:28 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 14
+[15-Jan-2025 11:35:28 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 52
+[15-Jan-2025 11:35:28 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 66
+[15-Jan-2025 11:35:28 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 88
+[15-Jan-2025 11:35:28 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 102
+[15-Jan-2025 11:35:30 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 14
+[15-Jan-2025 11:35:30 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 51
+[15-Jan-2025 11:35:30 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 65
+[15-Jan-2025 11:35:30 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 87
+[15-Jan-2025 11:35:30 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 101
+[15-Jan-2025 11:35:31 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 15
+[15-Jan-2025 11:35:31 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 164
+[15-Jan-2025 11:35:31 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 208
+[15-Jan-2025 11:35:31 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 222
+[15-Jan-2025 11:35:31 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 244
+[15-Jan-2025 11:35:31 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 258
+[15-Jan-2025 11:35:32 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 14
+[15-Jan-2025 11:35:32 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 52
+[15-Jan-2025 11:35:32 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 66
+[15-Jan-2025 11:35:32 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 88
+[15-Jan-2025 11:35:32 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 102
+[15-Jan-2025 11:35:49 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 15
+[15-Jan-2025 11:35:49 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/Welcome_Main.php on line 164
+[15-Jan-2025 11:35:49 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 208
+[15-Jan-2025 11:35:49 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 222
+[15-Jan-2025 11:35:49 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 244
+[15-Jan-2025 11:35:49 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Welcome_Main.php on line 258
+[15-Jan-2025 11:38:35 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 14
+[15-Jan-2025 11:38:35 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 51
+[15-Jan-2025 11:38:35 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 65
+[15-Jan-2025 11:38:35 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 87
+[15-Jan-2025 11:38:35 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Settings.php on line 101
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 14
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 52
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 66
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 88
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/Profil.php on line 102
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 15
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 53
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 67
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 89
+[15-Jan-2025 11:38:36 Europe/Budapest] PHP Notice:  Undefined index: darkmode in /home/kldtkmkm/public_html/upload.php on line 103
+[15-Jan-2025 11:38:58 Europe/Budapest] PHP Notice:  session_start(): A session had already been started - ignoring in /home/kldtkmkm/public_html/rendszerek/logout.php on line 2
+[15-Jan-2025 11:46:06 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[15-Jan-2025 11:48:15 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[15-Jan-2025 11:49:01 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Register.php on line 15
+[15-Jan-2025 12:15:56 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31
+[15-Jan-2025 12:29:12 Europe/Budapest] PHP Notice:  Undefined index: animatedbg in /home/kldtkmkm/public_html/Main_content.php on line 31

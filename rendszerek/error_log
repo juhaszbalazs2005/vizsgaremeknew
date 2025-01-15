@@ -1,0 +1,20 @@
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Notice:  Undefined index: puid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 23
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Notice:  Undefined index: pid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 24
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 28
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 29
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Notice:  Undefined index: puid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 23
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Notice:  Undefined index: pid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 24
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 28
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 29
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Notice:  Undefined index: puid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 23
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Notice:  Undefined index: pid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 24
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 28
+[14-Jan-2025 19:23:11 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 29
+[14-Jan-2025 19:23:12 Europe/Budapest] PHP Notice:  Undefined index: puid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 23
+[14-Jan-2025 19:23:12 Europe/Budapest] PHP Notice:  Undefined index: pid in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 24
+[14-Jan-2025 19:23:12 Europe/Budapest] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 28
+[14-Jan-2025 19:23:12 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 29
+[14-Jan-2025 19:25:19 Europe/Budapest] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 28
+[14-Jan-2025 19:25:19 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 29
+[14-Jan-2025 19:25:19 Europe/Budapest] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 49
+[14-Jan-2025 19:25:19 Europe/Budapest] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/kldtkmkm/public_html/rendszerek/followuser.php on line 50
